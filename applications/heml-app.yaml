@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/bakavets/k8s-lessons.git
+    repoURL: https://github.com/ilnur-tages/argocd.git
     targetRevision: main
     path: chart/demo
 
